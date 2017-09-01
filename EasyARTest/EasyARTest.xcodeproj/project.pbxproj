@@ -63,6 +63,7 @@
 		7BB7D3E11F4FF35A004C35D1 /* thumbImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7BB7D3CD1F4FF35A004C35D1 /* thumbImage@2x.png */; };
 		7BB7D3E31F4FFA34004C35D1 /* Miniature.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7BB7D3E21F4FFA34004C35D1 /* Miniature.mp4 */; };
 		7BB7D3E71F50034D004C35D1 /* show2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7BB7D3E61F50034D004C35D1 /* show2.jpg */; };
+		7BC0F1841F59447F00A75989 /* 图片实物识别:界面操作.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7BC0F1831F59447F00A75989 /* 图片实物识别:界面操作.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -130,6 +131,7 @@
 		7BB7D3CD1F4FF35A004C35D1 /* thumbImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbImage@2x.png"; sourceTree = "<group>"; };
 		7BB7D3E21F4FFA34004C35D1 /* Miniature.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Miniature.mp4; sourceTree = "<group>"; };
 		7BB7D3E61F50034D004C35D1 /* show2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = show2.jpg; path = sightplus/show2.jpg; sourceTree = "<group>"; };
+		7BC0F1831F59447F00A75989 /* 图片实物识别:界面操作.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "图片实物识别:界面操作.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -236,6 +238,7 @@
 				7BB7D3AA1F4FBD88004C35D1 /* test2.jpeg */,
 				7BB7D3A81F4EEC8B004C35D1 /* test3.jpeg */,
 				7BB7D3E21F4FFA34004C35D1 /* Miniature.mp4 */,
+				7BC0F1831F59447F00A75989 /* 图片实物识别:界面操作.gif */,
 				7BB7D3931F4EC43E004C35D1 /* sightplus */,
 				7BB7D3981F4EC43E004C35D1 /* targets.json */,
 				7BB7D3991F4EC43E004C35D1 /* targets2.json */,
@@ -413,6 +416,7 @@
 				7BB7D3661F4EC1C0004C35D1 /* LaunchScreen.storyboard in Resources */,
 				7BB7D39E1F4EC43E004C35D1 /* argame02.jpg in Resources */,
 				7BB7D3631F4EC1C0004C35D1 /* Assets.xcassets in Resources */,
+				7BC0F1841F59447F00A75989 /* 图片实物识别:界面操作.gif in Resources */,
 				7BB7D3DA1F4FF35A004C35D1 /* MaximumTrackImage@2x.png in Resources */,
 				7BB7D3E31F4FFA34004C35D1 /* Miniature.mp4 in Resources */,
 				7BB7D3D81F4FF35A004C35D1 /* full_play_btn_hl@3x.png in Resources */,
